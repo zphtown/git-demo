@@ -21,6 +21,10 @@ https://git-for-windows.github.io/
 
 # 开始上传
 
+备注：
+
+将本地仓库关联到远程仓库:git remote add origin git@github.com/zphtown/git-demo.git
+
 1.git clone 项目git地址（在github项目中找）
 2.git add .
 3.git commit  -m  "提交信息"  
@@ -28,4 +32,4 @@ https://git-for-windows.github.io/
 
 至此，已经上传成功
 
-备注：git remote add origin git@github.com:wangxi/Node-React-MongoDB-TodoList.git 当无法上传的时候，这个可能有用
+
