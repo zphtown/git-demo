@@ -26,8 +26,11 @@ https://git-for-windows.github.io/
 将本地仓库关联到远程仓库:git remote add origin git@github.com/zphtown/git-demo.git
 
 1.git clone 项目git地址（在github项目中找）
+
 2.git add .
+
 3.git commit  -m  "提交信息"  
+
 4.git push -u origin master 
 
 至此，已经上传成功
