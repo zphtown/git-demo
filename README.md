@@ -21,9 +21,7 @@ https://git-for-windows.github.io/
 
 # 开始上传
 
-备注：
-
-将本地仓库关联到远程仓库:git remote add origin git@github.com/zphtown/git-demo.git
+备注：将本地仓库关联到远程仓库:git remote add origin git@github.com/zphtown/git-demo.git
 
 1.git clone 项目git地址（在github项目中找）
 
