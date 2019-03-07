@@ -18,7 +18,7 @@
 
 4.1.1 首先在本地打开git命令，类似cmd
 
-4.1.2 执行ssh-keygen -t rsa -C "18817801185@163.com"
+4.1.2 执行ssh-keygen -t rsa -C "zphtown@163.com"
 
 4.1.3 找到C:\Users\Administrator\.ssh\id_rsa.pub，这个内容则是所需的key，title随便写
 
