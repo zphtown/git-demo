@@ -33,7 +33,7 @@
 
 3.git commit  -m  "提交信息"  
 
-4.git push -u origin master 
+4.git push -u origin master （直接git push也可以）
 
 至此，已经上传成功，下次编码时先更新代码：git pull
 
