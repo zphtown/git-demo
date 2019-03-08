@@ -35,6 +35,6 @@
 
 4.git push -u origin master 
 
-至此，已经上传成功
+至此，已经上传成功，下次编码时先更新代码：git pull
 
 
